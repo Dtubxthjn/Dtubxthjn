@@ -1,23 +1,8 @@
+<!-- Custom SVG panels keep the profile black in both GitHub appearance modes. -->
 <p align="center">
-  <img src="./assets/profile-cover.svg" width="100%" alt="Venu Gopal. Stay curious. Make something. A personal space for ideas, experiments, and whatever comes next." />
+  <img src="./assets/profile-cover.svg" width="100%" alt="Venu Gopal. Stay curious. Make something. Ideas, experiments, and whatever comes next." />
+  <img src="./assets/about.svg" width="100%" alt="I'm Venu Gopal. Welcome to my corner of GitHub. A space for the things I make, explore, and share. Idea → Experiment → Iterate." />
+  <a href="https://github.com/Dtubxthjn?tab=repositories"><img src="./assets/repositories.svg" width="100%" alt="Explore my repositories ↗ — Follow the experiments. Browse the repositories and see what takes shape." /></a>
+  <a href="https://github.com/Dtubxthjn?tab=stars"><img src="./assets/stars.svg" width="100%" alt="Explore my GitHub stars ↗ — Projects that caught my attention." /></a>
+  <img src="./assets/footer.svg" width="100%" alt="VG. Always a work in progress. Stay curious. Keep going." />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Dtubxthjn?tab=repositories"><strong>Explore my repositories ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Dtubxthjn?tab=stars">Things that caught my eye ↗</a>
-</p>
-
-<br />
-
-### A little introduction
-
-I'm **Venu Gopal**. Welcome to my corner of GitHub — a space for the things I make, explore, and share.
-
-I like the idea of leaving room for the next experiment. This profile will grow along with the work.
-
-<br />
-
----
-
-<sub>**VG** &nbsp; / &nbsp; Stay curious. Keep going.</sub>
