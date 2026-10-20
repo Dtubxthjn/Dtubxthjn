@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="title desc">
+<title id="title">Venu Gopal — a personal space on GitHub</title>
+<desc id="desc">An ivory editorial cover with bold black lettering, an electric lime orbital sculpture, and the words Stay curious. Make something.</desc>
+<defs>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21231e" opacity=".13"/></pattern>
+<clipPath id="art"><rect x="766" y="117" width="386" height="424" rx="6"/></clipPath>
+</defs>
+<rect width="1200" height="660" rx="14" fill="#f4f2e9"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#20221d">
+<circle cx="54" cy="49" r="6" fill="#20221d"/>
+<text x="74" y="55" font-family="monospace" font-size="15" letter-spacing="2">VG / PERSONAL SPACE</text>
+<text x="1152" y="55" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1">GITHUB · DTUBXTHJN</text>
+<path d="M48 80H1152" stroke="#20221d" stroke-opacity=".3"/>
+<text x="44" y="241" font-size="148" font-weight="bold" letter-spacing="-9">VENU</text>
+<text x="40" y="378" font-size="148" font-weight="bold" letter-spacing="-10">GOPAL<tspan fill="#7c8860">.</tspan></text>
+<text x="52" y="440" font-family="DejaVu Serif, Georgia, serif" font-style="italic" font-size="32">Stay curious. Make something.</text>
+<text x="54" y="494" font-size="17" fill="#616459">A personal space for ideas, experiments,</text>
+<text x="54" y="522" font-size="17" fill="#616459">and whatever comes next.</text>
+<g clip-path="url(#art)">
+<rect x="766" y="117" width="386" height="424" fill="#d6fb58"/>
+<rect x="766" y="117" width="386" height="424" fill="url(#grid)"/>
+<g transform="translate(959 322)" fill="none" stroke="#20221d" stroke-width="1.7">
+<circle r="142"/>
+<ellipse rx="64" ry="142" transform="rotate(-36)"/>
+<ellipse rx="64" ry="142" transform="rotate(36)"/>
+<ellipse rx="142" ry="51"/>
+<ellipse rx="142" ry="101"/>
+<path d="M-158 0H158M0-158V158" stroke-opacity=".3"/>
+</g>
+<circle cx="1074" cy="239" r="13" fill="#20221d"/>
+<circle cx="959" cy="322" r="6" fill="#20221d"/>
+<path d="M794 147h20m-10-10v20M1105 510h20m-10-10v20" stroke="#20221d"/>
+<text x="790" y="521" font-family="monospace" font-size="12" letter-spacing="1.5">FIG. 01 — ROOM TO EXPLORE</text>
+</g>
+<path d="M48 577H1152" stroke="#20221d" stroke-opacity=".3"/>
+<text x="52" y="620" font-family="monospace" font-size="13" letter-spacing="2">IDEA → EXPERIMENT → ITERATE</text>
+<text x="1150" y="620" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="2">ALWAYS A WORK IN PROGRESS ↗</text>
+</g>
+</svg>
