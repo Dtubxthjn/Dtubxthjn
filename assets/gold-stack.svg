@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title"><title id="title">Technical arsenal / Linux, Python, MCP, subagents and trading tools</title><defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0A6"/><stop offset=".45" stop-color="#FFD700"/><stop offset="1" stop-color="#836014"/></linearGradient><radialGradient id="halo"><stop stop-color="#FFD700" stop-opacity=".13"/><stop offset="1" stop-color="#FFD700" stop-opacity="0"/></radialGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFD700" stroke-opacity=".06"/></pattern></defs><rect width="1200" height="380" fill="#000"/><g font-family="DejaVu Sans, Arial, sans-serif">
+<path d="M48 1H1152" stroke="#25231c"/><text x="48" y="54" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">03 / TECHNICAL ARSENAL</text>
+<text x="48" y="116" font-size="38" fill="#fff" font-weight="bold" letter-spacing="-1">The tools behind the systems.</text>
+<path d="M48 152H1152" stroke="#25231c"/>
+<text x="48" y="194" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">SECURITY / INFRASTRUCTURE</text><text x="487" y="194" font-size="18" fill="#d4d0c3" >Linux  ·  Bash  ·  Wireshark  ·  Docker  ·  Git</text>
+<path d="M48 224H1152" stroke="#25231c"/>
+<text x="48" y="266" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">AI / AGENT ARCHITECTURES</text><text x="487" y="266" font-size="18" fill="#d4d0c3" >Python  ·  Subagents  ·  MCP  ·  Ollama</text>
+<path d="M48 296H1152" stroke="#25231c"/>
+<text x="48" y="338" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">QUANT / TRADING</text><text x="487" y="338" font-size="18" fill="#d4d0c3" >Pine Script v5  ·  TA  ·  REST APIs  ·  Webhooks</text>
+</g></svg>

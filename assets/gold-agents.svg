@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="355" viewBox="0 0 1200 355" role="img" aria-labelledby="title"><title id="title">Agentic Intelligence Framework / Subagent orchestration and MCP-driven corporate intelligence</title><defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0A6"/><stop offset=".45" stop-color="#FFD700"/><stop offset="1" stop-color="#836014"/></linearGradient><radialGradient id="halo"><stop stop-color="#FFD700" stop-opacity=".13"/><stop offset="1" stop-color="#FFD700" stop-opacity="0"/></radialGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFD700" stroke-opacity=".06"/></pattern></defs><rect width="1200" height="355" fill="#000"/><g font-family="DejaVu Sans, Arial, sans-serif">
+<path d="M48 1H1152" stroke="#25231c"/><text x="48" y="53" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">02 / SELECTED WORK — 002</text>
+<text x="45" y="128" font-size="43" fill="#fff" font-weight="bold" letter-spacing="-2">Agentic Intelligence</text>
+<text x="45" y="181" font-size="43" fill="url(#gold)" font-weight="bold" letter-spacing="-2">Framework</text>
+<text x="50" y="228" font-size="22" fill="#b5b0a2" >Subagent orchestration &amp;</text>
+<text x="50" y="261" font-size="22" fill="#b5b0a2" >MCP-driven corporate intelligence.</text>
+<text x="50" y="311" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">ORCHESTRATOR → SUBAGENTS → TOOLS</text>
+<g fill="none" stroke="#766329"><path d="M910 122v40H780v37m130-37v37m0-37h130v37M780 242v32h260v-32m-130 0v32"/></g>
+<g fill="#0b0a06" stroke="#5e5129"><rect x="827" y="76" width="166" height="46" rx="4"/><rect x="725" y="199" width="110" height="43" rx="4"/><rect x="855" y="199" width="110" height="43" rx="4"/><rect x="985" y="199" width="110" height="43" rx="4"/><rect x="827" y="274" width="166" height="40" rx="4"/></g>
+<text x="910" y="104" font-size="13" fill="#FFD700" text-anchor="middle" font-family="DejaVu Sans Mono, monospace">ORCHESTRATOR</text>
+<text x="780" y="225" font-size="12" fill="#ddd6bf" text-anchor="middle" font-family="DejaVu Sans Mono, monospace">AGENT 01</text>
+<text x="910" y="225" font-size="12" fill="#ddd6bf" text-anchor="middle" font-family="DejaVu Sans Mono, monospace">AGENT 02</text>
+<text x="1040" y="225" font-size="12" fill="#ddd6bf" text-anchor="middle" font-family="DejaVu Sans Mono, monospace">AGENT 03</text>
+<text x="910" y="299" font-size="12" fill="#FFD700" text-anchor="middle" font-family="DejaVu Sans Mono, monospace">MCP / TOOLS</text>
+</g></svg>

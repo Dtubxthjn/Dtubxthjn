@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title"><title id="title">Venu Gopal / Cybersecurity, AI Agents, Trading Systems</title><defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0A6"/><stop offset=".45" stop-color="#FFD700"/><stop offset="1" stop-color="#836014"/></linearGradient><radialGradient id="halo"><stop stop-color="#FFD700" stop-opacity=".13"/><stop offset="1" stop-color="#FFD700" stop-opacity="0"/></radialGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFD700" stroke-opacity=".06"/></pattern></defs><rect width="1200" height="650" fill="#000"/><g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="708" y="80" width="492" height="520" fill="url(#grid)"/>
+<circle cx="946" cy="319" r="260" fill="url(#halo)"/>
+<text x="48" y="48" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">VG / VENU GOPAL</text>
+<text x="1150" y="48" font-size="12" fill="#8d8a7e" text-anchor="end" font-family="DejaVu Sans Mono, monospace" letter-spacing="1">PERSONAL ENGINEERING LAB</text>
+<path d="M48 76H1152" stroke="#25231c"/>
+<text x="48" y="130" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">CYBERSECURITY STUDENT</text>
+<text x="42" y="243" font-size="116" fill="#fff" font-weight="bold" letter-spacing="-6">VENU</text>
+<text x="42" y="356" font-size="116" fill="url(#gold)" font-weight="bold" letter-spacing="-6">GOPAL.</text>
+<text x="50" y="418" font-size="29" fill="#eee9db" letter-spacing="-1">Unlocking ideas into systems.</text>
+<text x="50" y="467" font-size="17" fill="#a6a396" >Secure architectures. Autonomous intelligence.</text>
+<text x="50" y="495" font-size="17" fill="#a6a396" >Systematic trading. One connected practice.</text>
+<g transform="translate(947 322)" fill="none">
+<circle r="184" stroke="#766329" stroke-dasharray="2 10"/>
+<circle r="153" stroke="#51441c"/>
+<path d="M0-184A184 184 0 0 1 184 0" stroke="url(#gold)" stroke-width="3"/>
+<path d="M-199 0h39m320 0h39M0-199v39M0 160v39" stroke="#FFD700"/>
+<path d="M0-128 111-64v128L0 128-111 64V-64Z" stroke="url(#gold)" stroke-width="2"/>
+<path d="M0-128V0L111 64M0 0-111 64M-111-64 0 0l111-64M0 0v128" stroke="#FFD700" stroke-opacity=".35"/>
+<path d="M-53-40-18 48 48-56" stroke="url(#gold)" stroke-width="9"/>
+<circle r="153" stroke="#FFD700" stroke-dasharray="16 945" transform="rotate(112)" stroke-width="4"/>
+</g>
+<text x="871" y="550" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">SECURE / BUILD / EXECUTE</text>
+<path d="M48 588H1152" stroke="#25231c"/>
+<text x="48" y="625" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">01 / SECURITY</text>
+<text x="443" y="625" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">02 / AUTONOMOUS AI</text>
+<text x="882" y="625" font-size="12" fill="#FFD700" font-family="DejaVu Sans Mono, monospace" letter-spacing="2">03 / QUANT SYSTEMS</text>
+</g></svg>
